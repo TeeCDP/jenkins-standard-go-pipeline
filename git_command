@@ -1,0 +1,6 @@
+806  git init
+  807  git add .
+  808  git status
+  809  git commit -m 'First commit'
+  810  git remote add origin https://github.com/TeeCDP/jenkins-standard-go-pipeline.git
+  811  git push -f origin master
